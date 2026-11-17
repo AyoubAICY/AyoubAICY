@@ -95,13 +95,7 @@ Interested in the convergence of both fields, particularly:
 
 ---
 
-📞 Connect With Me
-
-Interested in Artificial Intelligence, Cybersecurity, or building intelligent and secure systems? Let's connect.
-
-- Email: "ayoub.ardem@gmail.com" (mailto:ayoubstudent640@gmail.com)
-- LinkedIn: "Connect on LinkedIn" (https://www.linkedin.com/in/ayoub-student-08832b2b3)
-- GitHub: "@AyoubArdem" (https://github.com/AyoubArdem)
+🤝 Connect With Me
 
 ---
 
